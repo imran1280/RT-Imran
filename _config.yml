@@ -1,0 +1,6 @@
+title: "My Modern Blog"
+description: "A modern and powerful blog website."
+baseurl: "" # যদি সাবপাথ ব্যবহার না করেন, খালি রাখুন
+url: "https://imran1280.github.io" # আপনার GitHub Pages URL দিন
+markdown: kramdown
+theme: null
